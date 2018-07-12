@@ -15,5 +15,8 @@
     "Charts"
   ],
   "author": "Ansh Kapoor",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^2.7.2"
+  }
 }

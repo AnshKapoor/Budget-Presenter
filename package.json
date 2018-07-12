@@ -1,0 +1,19 @@
+{
+  "name": "budget",
+  "version": "1.0.0",
+  "description": "A simple expenditure application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Html",
+    "Css",
+    "Javascript",
+    "Bootstrap",
+    "Jquery",
+    "Charts"
+  ],
+  "author": "Ansh Kapoor",
+  "license": "ISC"
+}

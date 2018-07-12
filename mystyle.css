@@ -1,0 +1,17 @@
+body{
+    border:2px solid blue;
+    background-color:#e6ffe6;
+  }
+  
+  h2{
+    font-style:Bradley Hand,cursive;
+    color:rgb(128, 0, 0);
+    font-size: 50px;
+    margin:40 0 30 250;
+    
+    
+  }
+  p{
+    font-size: 30px;
+    width:800px;
+  }
